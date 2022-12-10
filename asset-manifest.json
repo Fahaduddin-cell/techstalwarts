@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/techstalwarts/static/css/main.d1dacd25.css",
+    "main.js": "/techstalwarts/static/js/main.d309d469.js",
+    "static/js/787.032ac17e.chunk.js": "/techstalwarts/static/js/787.032ac17e.chunk.js",
+    "static/media/layer2.jpg": "/techstalwarts/static/media/layer2.a4d8d315b73230c68b5e.jpg",
+    "static/media/pngwing.com (2).png": "/techstalwarts/static/media/pngwing.com (2).3b56f114030292ac4998.png",
+    "static/media/pngwing.com (3).png": "/techstalwarts/static/media/pngwing.com (3).69cfe4f22d7a062caf51.png",
+    "static/media/pngwing.com.png": "/techstalwarts/static/media/pngwing.com.69cfe4f22d7a062caf51.png",
+    "static/media/qrcode.jpg": "/techstalwarts/static/media/qrcode.68f5bab31aec229c8ebb.jpg",
+    "index.html": "/techstalwarts/index.html",
+    "main.d1dacd25.css.map": "/techstalwarts/static/css/main.d1dacd25.css.map",
+    "main.d309d469.js.map": "/techstalwarts/static/js/main.d309d469.js.map",
+    "787.032ac17e.chunk.js.map": "/techstalwarts/static/js/787.032ac17e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1dacd25.css",
+    "static/js/main.d309d469.js"
+  ]
+}
